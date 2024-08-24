@@ -22,4 +22,5 @@ package.jsonのバージョンを変えて
 npm publish --access=public
 とやればおけ。
 
-
+## 参考
+https://zenn.dev/k0kishima/articles/d75f4dc5bd1a26
