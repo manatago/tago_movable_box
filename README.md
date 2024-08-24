@@ -14,6 +14,9 @@ tsconfigはtypescriptを使うときのコンパイルをどんな感じにす�
 - npm install txsでtsx使えるようにしとく
 - tsxonfig.jsonをこのプロジェクトと同じ感じにしておく
 
+# コンパイル
+npx tsc 
+
 # 公開の手順
 npm adduser
 コマンドでログインする
