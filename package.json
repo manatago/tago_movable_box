@@ -1,0 +1,16 @@
+{
+  "name": "tago_movable_box",
+  "version": "0.1.0",
+  "description": "This is for movable box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satoshi Tagomori",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.5.0",
+    "tsx": "^4.17.0",
+    "typescript": "^5.5.4"
+  }
+}
